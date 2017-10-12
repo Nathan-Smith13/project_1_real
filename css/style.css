@@ -1,0 +1,107 @@
+/*
+Gray: #B2B2B1
+Very Dark Gray: #1C1C1C
+*/
+
+body {
+    background-color: none;
+    font-family: "Quicksand", "sans-serif";
+    padding-right: 250px;
+    padding-left: 250px;
+}
+
+#header {
+    
+    border-bottom-style: solid;
+    border-color: gray;
+    height: 140px;
+}
+
+#logo {
+    max-height: 140px;
+}
+
+h4 {
+    margin: 0;
+    font-weight: 700;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Khula', sans-serif;
+    font-size: 49px;
+    opacity: .65;
+}
+
+.large-image {
+  margin-top: 11px; 
+    padding: 0;
+}
+
+.main-image {
+    width: 100%;
+}
+/*
+.featured-work-wrapper > div {
+    
+    padding: 0;
+    
+}
+*/
+/*
+.featured-work-wrapper > div > img {
+    
+    padding: 0;
+    
+}
+*/
+.lesson-4-skills {
+    padding-left: 0;
+}
+
+.lesson-5-skills  {
+    padding: 0 7px 0 7px;
+}
+
+.lesson-6-skills {
+    padding-left: 15px;
+    padding-right: 0px;
+}
+
+.lesson-4-skills > img {
+    width: 100%;
+}
+
+.lesson-5-skills > img {
+    width: 100%;
+}
+
+.lesson-6-skills > img {
+    width: 100%;
+}
+
+.featured-work-wrapper > div > h3 {
+    text-align: center;
+}
+
+h2 {
+    color: grey;
+}
+
+h6 {
+    text-align: center;
+}
+
+#header-text {
+    transform: translateY(50%);
+    padding-right: 0;
+    text-align: right;
+}
+
+#header-logo {
+    padding-left: 0;
+}
+
+.modal-body > img {
+    width: 100%
+}
